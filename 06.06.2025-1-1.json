@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Clarke",
+    "age": 83,
+    "address": {
+        "street": "Rose Stream",
+        "city": "West Bryan",
+        "state": "Delaware",
+        "zip": "95919"
+    },
+    "contact": {
+        "phone": "(983)220-0717x920",
+        "servicePhone": "800601999"
+    },
+    "birthday": "1942-23-06",
+    "ip": "74.106.64.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Various goal past. Eye simply class couple. Spring travel plant herself require.\nInto paper realize call laugh bill. Society interview down ok do close painting white.",
+        "bio": "Around with blue. Condition hair paper beat teach. Myself item either.\nPopular response thought teacher. Interesting radio writer former change."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
