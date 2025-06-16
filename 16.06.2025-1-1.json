@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Luna",
+    "age": 49,
+    "address": {
+        "street": "Small Alley",
+        "city": "Petermouth",
+        "state": "Wyoming",
+        "zip": "87827"
+    },
+    "contact": {
+        "phone": "(722)837-8127",
+        "servicePhone": "800533155"
+    },
+    "birthday": "1976-17-08",
+    "ip": "29.192.235.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Keep citizen community. Town letter local member present most. Bank surface sister politics while know.",
+        "bio": "Law perform say team. Any try seat young on nation.\nConsider sort field avoid shoulder. Market friend either cut. Doctor space writer statement growth budget."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
