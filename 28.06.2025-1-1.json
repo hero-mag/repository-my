@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Adams",
+    "age": 92,
+    "address": {
+        "street": "Gibson Mill",
+        "city": "Williamstad",
+        "state": "Ohio",
+        "zip": "14555"
+    },
+    "contact": {
+        "phone": "(393)650-3813",
+        "servicePhone": "800419947"
+    },
+    "birthday": "1933-12-07",
+    "ip": "108.62.47.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Certain five floor. Camera some all entire early. Born child writer ever sign tree.",
+        "bio": "Court their despite almost tree. Worry item word born. Base beautiful make rather eat.\nUntil arm information situation.\nRadio smile able drop. Yes less catch seven. Write save popular conference."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
