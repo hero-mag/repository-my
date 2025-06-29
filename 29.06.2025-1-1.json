@@ -1,0 +1,25 @@
+{
+    "name": "Paul Sullivan",
+    "age": 77,
+    "address": {
+        "street": "Rebecca Lake",
+        "city": "Rachelfurt",
+        "state": "Alabama",
+        "zip": "94536"
+    },
+    "contact": {
+        "phone": "+1-430-514-8304",
+        "servicePhone": "800707984"
+    },
+    "birthday": "1948-24-03",
+    "ip": "190.208.6.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal well real read loss type. How nice discuss pull recognize. Theory decide quality keep available free since analysis.\nPerformance general receive life nice moment finally.",
+        "bio": "Practice matter major resource share. Society attention magazine west. Whatever cut whatever energy cause trade."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
