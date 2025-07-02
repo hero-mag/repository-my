@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Gordon",
+    "age": 96,
+    "address": {
+        "street": "Maldonado Mission",
+        "city": "South Eric",
+        "state": "South Dakota",
+        "zip": "52427"
+    },
+    "contact": {
+        "phone": "261.623.3661x656",
+        "servicePhone": "800217182"
+    },
+    "birthday": "1929-03-01",
+    "ip": "182.118.48.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Road push project physical. Technology operation fall choice believe you single.\nFinally describe recognize rate structure must animal. Personal management know.",
+        "bio": "Star difference often enjoy natural it. Measure dark trial window employee economy. Add account play probably find remember begin significant."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
