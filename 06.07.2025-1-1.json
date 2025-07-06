@@ -1,0 +1,25 @@
+{
+    "name": "Sydney Taylor",
+    "age": 70,
+    "address": {
+        "street": "Cindy Hills",
+        "city": "West Elizabeth",
+        "state": "Maryland",
+        "zip": "46407"
+    },
+    "contact": {
+        "phone": "+1-609-969-0991x4622",
+        "servicePhone": "800328672"
+    },
+    "birthday": "1955-09-04",
+    "ip": "90.205.146.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Coach cut can start man meet available story. Concern various by.\nIndividual population heavy. Week power western employee central.",
+        "bio": "Hair color continue provide miss fill body.\nLeg require back. Probably month garden radio together arrive discuss. Occur wife benefit finish."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
