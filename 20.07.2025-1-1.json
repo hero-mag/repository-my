@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Curtis",
+    "age": 75,
+    "address": {
+        "street": "Tiffany Walks",
+        "city": "Velasquezshire",
+        "state": "New York",
+        "zip": "19209"
+    },
+    "contact": {
+        "phone": "+1-494-903-5764x63861",
+        "servicePhone": "800010842"
+    },
+    "birthday": "1950-09-05",
+    "ip": "64.21.38.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Anyone situation various indicate us. Scientist hard her friend check plant art. Project realize fall something with.",
+        "bio": "Drop partner soon including. Door course off give claim give writer.\nMyself unit student hold guess present. Floor social south. Among care state ability upon."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
