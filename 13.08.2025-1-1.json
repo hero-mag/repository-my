@@ -1,0 +1,25 @@
+{
+    "name": "Robin Holland",
+    "age": 76,
+    "address": {
+        "street": "Samuel Hill",
+        "city": "Allenfurt",
+        "state": "Mississippi",
+        "zip": "79410"
+    },
+    "contact": {
+        "phone": "479.517.1240",
+        "servicePhone": "800041733"
+    },
+    "birthday": "1949-04-03",
+    "ip": "113.160.30.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag while more opportunity result. Choose push enough strategy unit let kid direction.\nSame box item today. Resource century manage condition same include.",
+        "bio": "News best edge face money table open. Early very apply summer truth fire Mrs.\nArtist activity example third training dog player. Personal get benefit century thousand training what."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
