@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Hart",
+    "age": 62,
+    "address": {
+        "street": "Mullen Wells",
+        "city": "New Gregmouth",
+        "state": "South Dakota",
+        "zip": "60196"
+    },
+    "contact": {
+        "phone": "326-819-3975",
+        "servicePhone": "800304719"
+    },
+    "birthday": "1963-01-09",
+    "ip": "148.167.230.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Film foot fact care think contain quite. Small theory part parent risk list.",
+        "bio": "Natural recent ten sort agree create now. Adult industry walk defense.\nGet way suggest office final as. Hard fly board music fill reveal past may. Much allow trial answer goal night central bring."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
