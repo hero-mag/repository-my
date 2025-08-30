@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Mata",
+    "age": 40,
+    "address": {
+        "street": "Perez Throughway",
+        "city": "East Jesse",
+        "state": "Missouri",
+        "zip": "60585"
+    },
+    "contact": {
+        "phone": "+1-550-292-6135x6066",
+        "servicePhone": "800145529"
+    },
+    "birthday": "1985-14-01",
+    "ip": "168.177.60.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Cut arrive radio father.\nFind could and best western sing water. Bill let her politics.",
+        "bio": "Size draw pattern gas force discuss their. Peace she clear pick say.\nProve significant head door whatever room specific. Degree song strong hospital reason."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
