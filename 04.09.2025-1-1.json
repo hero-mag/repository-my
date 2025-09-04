@@ -1,0 +1,25 @@
+{
+    "name": "Charles Stevens",
+    "age": 66,
+    "address": {
+        "street": "Rose Track",
+        "city": "Smithhaven",
+        "state": "Vermont",
+        "zip": "13206"
+    },
+    "contact": {
+        "phone": "370.608.4468x87309",
+        "servicePhone": "800235348"
+    },
+    "birthday": "1959-02-09",
+    "ip": "156.93.236.197",
+    "foo": "bar",
+    "profile": {
+        "about": "War meet war ability dog style police adult. Before authority big nice away idea. Would they identify science.",
+        "bio": "Popular space fill poor significant create. Office detail then industry executive however away.\nAddress southern significant born form Democrat. Million agent along car."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
