@@ -1,0 +1,25 @@
+{
+    "name": "Dominic Carter",
+    "age": 101,
+    "address": {
+        "street": "Patricia Radial",
+        "city": "East Brittany",
+        "state": "Maryland",
+        "zip": "69291"
+    },
+    "contact": {
+        "phone": "521.788.7541",
+        "servicePhone": "800112427"
+    },
+    "birthday": "1924-24-02",
+    "ip": "180.249.246.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Often laugh floor resource sister paper. Get mission somebody into leg debate.\nHim enjoy everybody develop coach she four. Form eye week thousand several.",
+        "bio": "Memory buy debate unit later during. Rock market morning idea. Against life machine provide society. Box study still idea various speak."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
