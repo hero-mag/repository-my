@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Gallagher",
+    "age": 93,
+    "address": {
+        "street": "Thomas Way",
+        "city": "Danielfurt",
+        "state": "Montana",
+        "zip": "25405"
+    },
+    "contact": {
+        "phone": "+1-430-808-5210x519",
+        "servicePhone": "800643388"
+    },
+    "birthday": "1932-11-01",
+    "ip": "69.124.172.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Single cup debate. Every write east sure analysis. Side remain now.\nProve catch down administration our actually green. Enter concern meet most seem consumer if.",
+        "bio": "Share team former fly open pressure. Claim fire glass finish company ten design free. All strategy growth term way Congress.\nDifficult past difference worry. War go determine attention."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
